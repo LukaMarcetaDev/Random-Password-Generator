@@ -71,7 +71,7 @@ body {
   cursor: pointer;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
   .container {
     margin: 5%;
     width: 90%;
